@@ -1,0 +1,13 @@
+Hard skills :
+-Understanding of software testing and development processes,
+-Understanding Testing Basics,
+-Working with test documentation,
+-Ability to write defect reports,
+-Knowledge of testing methodologies.
+    
+Soft skills :
+-Skill to work in team,
+-Friendliness when communicating with colleagues,
+-Punctuality and organization,
+-Ability to solve complex problems.
+    
